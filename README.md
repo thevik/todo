@@ -7,4 +7,6 @@ This is just a basic todo app made with html, css and vanilla js, I dont think y
 
 your all todo will be wooped (removed) when refreshed, I dont got a database
 
+pretty weird that double click option to delete doesnt work on mobile
+
 ###  This site is published at https://thevik.github.io/todo/
