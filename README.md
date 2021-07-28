@@ -6,3 +6,4 @@ This is just a basic todo app made with html, css and vanilla js, I dont think y
 -- double click to delete the todo
 
 your all todo will be wooped (removed) when refreshed, I dont got a database
+although you can use ``` localStorage.getItem('todos') ``` to view the last todo you saved
